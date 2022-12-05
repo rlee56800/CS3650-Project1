@@ -1,6 +1,7 @@
 # Project 1: Certified Preowned Processor
 
 Rebecca Lee
+
 Danielle Yap
 
 *Notes PDF is added as a file*
