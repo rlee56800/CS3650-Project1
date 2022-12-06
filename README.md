@@ -8,5 +8,3 @@ Danielle Yap
 
 ## References
 [Task 1](https://github.com/diadatp/mips_cpu)
-
-[Task 2](https://github.com/maze1377/pipeline-mips-verilog)
